@@ -1,0 +1,18 @@
+@font-face {
+	font-family: "EnglishScript";
+	src: url("fonts/EnglishScript/EnglishScript.eot");
+	src: url("fonts/EnglishScript/EnglishScript.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/EnglishScript/EnglishScript.woff") format("woff"),
+			 url("fonts/EnglishScript/EnglishScript.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Eurofurencelight";
+	src: url("fonts/Eurofurencelight/Eurofurencelight.eot");
+	src: url("fonts/Eurofurencelight/Eurofurencelight.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/Eurofurencelight/Eurofurencelight.woff") format("woff"),
+			 url("fonts/Eurofurencelight/Eurofurencelight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
